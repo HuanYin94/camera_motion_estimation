@@ -1,10 +1,15 @@
 ## A naive implementation of the Article in ICRA 2016:
  
-Kuse M, Shen S. Robust camera motion estimation using direct edge alignment and sub-gradient method[C]// IEEE International Conference on Robotics and Automation. 2016:573-579.
-
-## Article link:
-
-https://www.researchgate.net/publication/303886072_Robust_camera_motion_estimation_using_direct_edge_alignment_and_sub-gradient_method
+```
+@inproceedings{kuse2016robust,
+  title={Robust camera motion estimation using direct edge alignment and sub-gradient method},
+  author={Kuse, Manohar and Shen, Shaojie},
+  booktitle={Robotics and Automation (ICRA), 2016 IEEE International Conference on},
+  pages={573--579},
+  year={2016},
+  organization={IEEE}
+}
+```
 
 ## Test data:
 
