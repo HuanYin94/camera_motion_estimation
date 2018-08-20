@@ -17,13 +17,8 @@ TUM:    http://vision.in.tum.de/data/datasets/rgbd-dataset
 and our own data, based on Tang Li's visual T&R:
 ```
 @Article{Tang2018,
-author="Tang, Li
-and Wang, Yue
-and Ding, Xiaqing
-and Yin, Huan
-and Xiong, Rong
-and Huang, Shoudong",
 title="Topological local-metric framework for mobile robots navigation: a long term perspective",
+author={Tang Li, Wang Yue, Ding Xiaqing, Yin Huan, Xiong Rong, Huang Shoudong},
 journal="Autonomous Robots",
 year="2018",
 doi="10.1007/s10514-018-9724-7",
