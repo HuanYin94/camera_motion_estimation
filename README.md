@@ -1,4 +1,4 @@
-### A naive implementation of the Article in ICRA 2016:
+### A simple implementation of the Article in ICRA 2016:
  ```
 @inproceedings{kuse2016robust,
   title={Robust camera motion estimation using direct edge alignment and sub-gradient method},
